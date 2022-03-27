@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\bin\Debug\Monteflix.exe.config
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\bin\Debug\Monteflix.exe
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\bin\Debug\Monteflix.pdb
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\obj\Debug\Monteflix.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\obj\Debug\Monteflix.Form1.resources
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\obj\Debug\Monteflix.Properties.Resources.resources
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\obj\Debug\Monteflix.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\obj\Debug\Monteflix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\obj\Debug\Monteflix.exe
+C:\Users\User\Desktop\Monteflix\Monteflix\Monteflix\obj\Debug\Monteflix.pdb
