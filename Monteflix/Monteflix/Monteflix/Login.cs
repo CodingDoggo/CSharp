@@ -13,7 +13,7 @@ namespace Monteflix
 {
     public partial class Login : Form
     {
-        string path = "Data Source=DESKTOP-SLKID4N;Initial Catalog=Monteflix;Integrated Security=True";
+        string path = "Data Source=//Input Name Of Your Device//;Initial Catalog=Monteflix;Integrated Security=True";
         SqlConnection con;
         SqlCommand command;
         bool checkPass = false;
